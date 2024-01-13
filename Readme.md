@@ -86,3 +86,9 @@ Driver = /usr/local/mysql-connector-odbc-8.2.0-macos13-arm64/lib/libmyodbc8a.so
 ```
 Another potentially useful tool was the ODBC Driver manager: 
 https://www.iodbc.org/dataspace/doc/iodbc/wiki/iodbcWiki/Downloads
+
+
+### Running VSCODE Python scripts in bash instead of zshell:
+<img width="647" alt="image" src="https://github.com/MxBoud/MacPythonConfig/assets/21281558/732361eb-9691-4d42-aa28-d192d1a6a22b">
+
+Command + Shift + P and then :Select Default Profile. Then you have to select Bash,
