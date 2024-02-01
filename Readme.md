@@ -15,7 +15,7 @@ alias python=python3
 ```
 Note! For this to work, you have to set the mac terminal to use bash and not zsh (in the settings!).
 
-##Update:
+## Update:
 I did not play with this a lot, but it looks like the following works with zshell: 
 Add the following to ~/.zshrc:
 ```
