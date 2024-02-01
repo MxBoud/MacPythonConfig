@@ -15,6 +15,20 @@ alias python=python3
 ```
 Note! For this to work, you have to set the mac terminal to use bash and not zsh (in the settings!).
 
+##Update:
+I did not play with this a lot, but it looks like the following works with zshell: 
+Add the following to ~/.zshrc:
+```
+export PYTHONPATH=$PYTHONPATH:/Users/maximeboudreau/Documents/git
+```
+
+To do this, you can type the following commands in the terminal:
+```
+cd ~
+nano .zshrc
+```
+This will enter the nano editor. You can then add the path of you choice.
+
 ## Another way to play with the command names: 
 If you navigate to this folder, you can find all aliases for different command and can rename them:
 /usr/local/bin/
